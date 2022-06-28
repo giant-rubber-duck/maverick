@@ -1,6 +1,27 @@
+# github.com/adshao/go-binance/v2 v2.3.6
+## explicit; go 1.13
+github.com/adshao/go-binance/v2
+github.com/adshao/go-binance/v2/common
+github.com/adshao/go-binance/v2/delivery
+github.com/adshao/go-binance/v2/futures
+# github.com/bitly/go-simplejson v0.5.0
+## explicit
+github.com/bitly/go-simplejson
 # github.com/go-sql-driver/mysql v1.6.0
 ## explicit; go 1.10
 github.com/go-sql-driver/mysql
+# github.com/gorilla/websocket v1.5.0
+## explicit; go 1.12
+github.com/gorilla/websocket
+# github.com/json-iterator/go v1.1.12
+## explicit; go 1.12
+github.com/json-iterator/go
+# github.com/modern-go/concurrent v0.0.0-20180228061459-e0a39a4cb421
+## explicit
+github.com/modern-go/concurrent
+# github.com/modern-go/reflect2 v1.0.2
+## explicit; go 1.12
+github.com/modern-go/reflect2
 # golang.org/x/text v0.0.0-20170915032832-14c0d48ead0c
 ## explicit
 golang.org/x/text/internal/tag
